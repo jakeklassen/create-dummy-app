@@ -1,0 +1,15 @@
+{
+  "name": "create-dummy-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "cli.js"
+  ],
+  "bin": {
+    "create-dummy-app": "cli.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "np": "^5.0.1"
+  }
+}
